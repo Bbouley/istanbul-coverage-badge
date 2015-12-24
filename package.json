@@ -1,0 +1,15 @@
+{
+  "name": "istanbul-coverage-badge",
+  "version": "1.0.0",
+  "description": "Package to generate code coverage badge from Istanbul coverage reports",
+  "main": "index.js",
+  "scripts": {
+    "test": "cov-badge"
+  },
+  "keywords": [
+    "istanbul",
+    "coverage"
+  ],
+  "author": "Bradley Bouley",
+  "license": "ISC"
+}
